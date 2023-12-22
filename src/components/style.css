@@ -1,0 +1,14 @@
+/* Add these styles to your CSS file */
+.imageContainer {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .image {
+    width: 150px; /* Set the width of the image */
+    height: 150px; /* Set the height of the image */
+    object-fit: cover; /* Ensure the image covers the specified dimensions */
+  }
+  
+
+  
